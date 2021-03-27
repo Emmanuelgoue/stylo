@@ -1,0 +1,113 @@
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Vitrine</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Vitrine.css">
+</head>
+
+<body>
+    <nav>
+        <p>
+        <img src="LL.jpg" alt="" class="arrondie" />
+         </p>
+   
+        <div class="onglets">
+            <a href="# ">Nos Marchés</a>
+            <a href="#produits">Nos produits</a>
+            <a href="#contact">Nouveauté</a>
+            <a href="#contact">Nos projets...</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <header>
+        <h1> Aïdi,</h1>
+        <h4>Commerce de detail...</h4>
+        <button> <b>Stylo AÏdi, pour le plaisir d'écrire.</b></button>
+    </header>    
+
+    <section class="main" id="produits">
+
+        <div class="content">
+            <div class="card">
+                <div class="left">
+                    <h1>Nos Marchés</h1>
+                    <p>Nous sommes partout pour repondre à vos besoinS en toute circonstance. Rencez-vous aussi dans les stores AÏdi les plus proches pour 
+                        profiter de nos produits.</p>
+                </div>
+                <div class="right">
+                    <img src="F2.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="cardi">
+                <div class="left">
+                    <h1>Nos Présentations</h1>
+                    <p>Découvrez nos produits et gammes selon votre genre ! Vous pouvez aussi les personnaliser. </p>
+                </div>
+                <div class="right">
+                    <img src="F3.jpg" alt="">
+                </div>
+            </div>
+            
+            <div class="bro">
+                <div class="left">
+                    <h1>Plus Visionnaire</h1>
+                    <p>Nos dernières générations de stylo à votre serice </p>
+                </div>
+                <div class="right">
+                    <img src="F1.jpg" alt="">
+                </div>
+            </div>
+            <div class="brother">
+                <div class="left">
+                    <h1>Rêvez...</h1>
+                    <p>Bientôt disponible sur le marché ! </p>
+                </div>
+                <div class="right">
+                    <img src="F4.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+
+        <h1>Nos services</h1>
+        <div class="services">
+            <div class="service">
+                <h3>Vente</h3>
+                <p>Rendez vous dans les différents points de vente situez à Abidjan II Plateaux, à Yamoussoukro 220 Logements et à Ferkessédougou. Passez aussi vos commandes en ligne.</p>
+            </div>
+            <div class="service">
+                <h3>Livraison</h3>
+                <p>Recevrez vos commandes immédiatement en Côte d'Ivoire et partout en Afrique par avion, par camionage et par bateau.</p>
+            </div>
+
+
+            <div class="service">
+                <h3>Satisfait ou Remboursé</h3>
+                <p>Faite nous des retours sur votre satisfaction après utilisation. Vous serez immédiatement relivré ou rembousé si vous n'est pas Satisfait.</p>
+            </div>
+
+        </div>
+
+
+
+
+
+
+    <p id="contact">Manga : 07 69 14 48 72 <br> Emmanuel : 01 01 11 29 85 <br>David : 05 56 57 76 64 <br>Idriss : 01 42 63 91 51 <br> &copy; 2021, INP-HB / ESCAE / Logistique & Transport. </p>
+    </footer>
+</body>
+
+</html>
